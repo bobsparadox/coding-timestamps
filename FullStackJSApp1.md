@@ -14,34 +14,34 @@
   * [10:42] Add GET / endpoint
 * [13:00] Client: Try to make a request
   * [14:13] See the CORS error and remember this moment
-  * [ ] Add CORS to the API
-* [ ] Create database
-* [ ] Initialize knex project
-  * [ ] Install knex and pg
-  * [ ] Create knexfile.js
-* [ ] Create product table migration
-* [ ] Seed product table with sample data
-* [ ] Add api folder and create/mount router
-* [ ] Connect to the database
-  * [ ] Create database connection file
-  * [ ] Create a queries file
-* [ ] List all records with GET /api/v1/products
-  * [ ] Create query
-  * [ ] Create route
-* [ ] List all records in /index.html
-  * [ ] AJAX Request to GET /products
-  * [ ] Append to DOM
-  * [ ] Each product links to /product.html?id=:id
-  * [ ] Display a link to /create.html
-* [ ] Show one record with GET /api/v1/products/:id
-  * [ ] Validate id
-  * [ ] Create query
-  * [ ] Create route
-* [ ] Show one record in /product.html?id=:id
-  * [ ] Parse query string to get id
-  * [ ] AJAX Request to GET /products/:id
-  * [ ] Append to DOM
-  * [ ] Display link to /edit.html?id=:id
+  * [15:53] Add CORS to the API
+* [18:19] Create database
+* [19:02] Initialize knex project
+  * [19:02] Install knex and pg
+  * [19:24] Create knexfile.js
+* [20:58] Create product table migration
+* [25:43] Seed product table with sample data
+* [28:43] Add api folder and create/mount router
+* [32:54] Connect to the database
+  * [33:11] Create database connection file
+  * [35:53] Create a queries file
+* [36:55] List all records with GET /api/v1/products
+  * [37:36] Create query
+  * [38:09] Create route
+* [39:36] List all records in /index.html
+  * [39:51] AJAX Request to GET /products
+  * [40:28] Append to DOM
+  * [46:32] Each product links to /product.html?id=:id
+  * [47:31] Display a link to /create.html
+* [50:37] Show one record with GET /api/v1/products/:id
+  * [51:16] Validate id
+  * [52:51] Create query
+  * [53:25] Create route
+* [55:27] Show one record in /product.html?id=:id
+  * [55:54] Parse query string to get id
+  * [58:41] AJAX Request to GET /products/:id
+  * [1:00:53] Append to DOM
+  * [1:03:30] Display link to /edit.html?id=:id
 * [ ] Create a record with POST /api/v1/products
   * [ ] Create route
   * [ ] Validate product!

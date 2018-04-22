@@ -26,7 +26,7 @@
   * [ ] Add favorites page to show favorites
   * [ ] Save favorites to localStorage
   * [ ] Load favorites on page load
-* Movie Search
+* [404 Error Not Found] Movie Search
   * [ ] Generate App with Router
   * [ ] Add Bootswatch
   * [ ] Add form to search for movies by title

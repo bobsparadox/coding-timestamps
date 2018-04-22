@@ -1,26 +1,23 @@
 * [0:43] What is Vue.js?
 * [5:49] Player Score Counter
   * [x] Generate Simple App
-  * [x] Add Bootswatch
-  * [x] Up Button For Player 1
-  * [x] Down Button For Player 1
-  * [x] Up Button For Player 2
-  * [x] Down Button For Player 2
-* [25:05] App
+  * [11:03] Add Bootswatch
+  * [14:19] Player 1&2 Buttons
+* [25:05] Todo App
   * [x] Generate Simple App
   * [x] Add Bootswatch
-  * [x] Form to add todo
-  * [x] Add todo to list when form submitted
+  * [27:47] Form to add todo
+  * [29:41] Add todo to list when form submitted
   * [x] Show todos in a list on page
-  * [x] Click a todo to mark it as done
-  * [x] Delete button for todo
-  * [x] Watch todos for changes and save to localStorage
-  * [x] Load todos from localStorage on page load
+  * [38:02] Click a todo to mark it as done
+  * [45:17] Delete button for todo
+  * [50:42] Watch todos for changes and save to localStorage
+  * [56:00] Load todos from localStorage on page load
 * [59:02] Reddit Client
-  * [x] Generate App with Router
+  * [1:00:18] Generate App with Router
   * [x] Add Bootswatch
-  * [x] fetch posts from reddit
-  * [x] Add posts to page
+  * [1:11:25] fetch posts from reddit
+  * [1:15:52] Add posts to page
     * [x] Make it look kind of like reddit!
   * [ ] Add favorite button to post
   * [ ] Add favorites page to show favorites

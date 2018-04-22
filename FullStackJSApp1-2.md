@@ -1,3 +1,5 @@
+### Stream 1
+
 * [2:34] Setup client folder
   * [2:38] index.html
   * [2:55] Add bootswatch CDN
@@ -42,6 +44,9 @@
   * [58:41] AJAX Request to GET /products/:id
   * [1:00:53] Append to DOM
   * [1:03:30] Display link to /edit.html?id=:id
+
+### Stream 2
+
 * [4:09] Create a record with POST /api/v1/products
   * Create route
   * Validate product!
